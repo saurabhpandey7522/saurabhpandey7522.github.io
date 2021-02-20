@@ -9,5 +9,3 @@
 <p>pollution is a very serious issue affecting in life.</p>
 
 
-
-Ashish Pandey
