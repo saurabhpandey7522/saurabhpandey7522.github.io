@@ -1,5 +1,5 @@
-# saurabhpandey7522.github.io <!DOCTYPE html>
-<html>
+# saurabhpandey7522.github
+
 <head>
 <title>saurabh</title>
 </head>
