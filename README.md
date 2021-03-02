@@ -1,4 +1,4 @@
-<a href="blog.ashishapy.com">link text</a>
+<a href="blog.ashishapy.com">Ashish.blog</a>
 
 <html>
 <head>
