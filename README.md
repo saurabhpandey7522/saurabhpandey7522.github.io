@@ -8,6 +8,7 @@ Scroll down
 <title> Saurabh </title>
 </head>
 <body>
+<img=IMG-20210220-WA0000>
 
 <h1>pollution</h1>
 <p> pollution is a very serious issue in environment These harmful materials are called pollutants. Pollutants can be natural, such as volcanic ash. They can also be created by human activity, such as trash or runoff produced by factories. Pollutants damage the quality of air, water, and land.
