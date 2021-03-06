@@ -1,3 +1,4 @@
+<img src="img_profile.jpg" alt="profile in a jacket">
 
 I am Saurabh pandey
 My Topic is pollution to read more about pollution
@@ -8,7 +9,6 @@ Scroll down
 <title> Saurabh </title>
 </head>
 <body>
-<"Profile.jpg">
 
 <h1>pollution</h1>
 <p> pollution is a very serious issue in environment These harmful materials are called pollutants. Pollutants can be natural, such as volcanic ash. They can also be created by human activity, such as trash or runoff produced by factories. Pollutants damage the quality of air, water, and land.
